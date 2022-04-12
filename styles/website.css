@@ -6,5 +6,13 @@ img{
 .pColor{
     
     font-size: 12px;
+}
 
+.content{
+    
+    text-align: justify;
+    text-justify: auto;
+    display: inline-block;
+    text-indent: 2em;
+    
 }
